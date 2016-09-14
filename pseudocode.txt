@@ -1,1 +1,32 @@
-#IntroFP
+# IntroFP
+
+# app.py: if __name__ == '__main__':
+
+# configuration
+# create our little application :)
+
+# connect mongo database
+
+# set middlewares
+
+# routes setting
+# index post
+
+# new post 
+
+# create post
+
+# show post
+
+# edit post
+
+# update post
+
+# set user routes
+# new user
+
+# create user
+
+# update user
+
+# start server
